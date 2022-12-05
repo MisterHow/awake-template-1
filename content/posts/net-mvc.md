@@ -1,5 +1,5 @@
 ---
-title: .NET MVC
+title: DotNET MVC
 subtitle: The foundation of my career
 category:
   - Dev Journey
