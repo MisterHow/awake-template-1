@@ -1,27 +1,35 @@
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
-      title="About Us"
-      subtitle="Example About Page"
-      image="/uploads/about-hero.jpg"
+      title="About Me"
+      subtitle="Alan How - Developer on a journey"
+      image="/uploads/banner-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Fake Heading</h3>
+          <h3>Obligatory Hello, world!</h3>
           <p>
             <strong>
-              Edit this page in<code>/pages/about.vue</code>to fit your needs.
+              Introduction
             </strong>
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
+            Welcome to my little slice of the internet. I am a 20-something year
+            old developer who has had quite an exciting start to their career
+            and has every means of continuing it. I love to develop and create,
+            have since I can remember! My journey really burst into action when
+            I started a 'Computer Games Development' course at Liverpool John
+            Moores University. Followed by a year long internship at The Lead
+            Agency, which really opened my eyes to work in the industry, for
+            which I am very grateful. I now work at Trinity College Cambridge as
+            the sole IT Developer where there is never a dull day. I'm currently
+            replatforming the entire system, getting rid of the legacy systems
+            and implementing new, secure and up-to-date .NET web applications.
+            This is where I intend to document my exploration and discoveries.
           </p>
 
-          <h3>Another Fake Heading</h3>
+          <h3>Get to know me</h3>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
             eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
